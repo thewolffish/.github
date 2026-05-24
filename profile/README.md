@@ -6,18 +6,18 @@
 
 **A brain you own, not a chatbot you rent.**
 
-Wolffish is a personal AI agent that runs on your machine with full system access. It thinks, acts, and learns — entirely local.
+Wolffish is a local-first, markdown-powered personal AI desktop app built with Electron. It runs on macOS, Windows, and Linux, and maps the human brain’s architecture onto a deterministic agentic software pipeline where 15 runtime modules each handle one specific function — routing input, building context, and enforcing safety.
 
 Built around a 15-module architecture modeled after the human brain, from memory consolidation to safety gating. Every piece of state lives in readable markdown. No black boxes.
 
 ### Repos
 
-| | |
-|---|---|
-| **[wolffish-app](https://github.com/thewolffish/wolffish-app)** | Electron desktop agent — the brain and runtime |
-| **[wolffish-landing](https://github.com/thewolffish/wolffish-landing)** | Landing page at [wolffi.sh](https://wolffi.sh) |
-| **[wolffish-docs](https://github.com/thewolffish/wolffish-docs)** | Documentation at [docs.wolffi.sh](https://docs.wolffi.sh/) |
-| **[wolffish-signing](https://github.com/thewolffish/wolffish-signing)** | Windows code signing for releases |
+|                                                                         |                                                            |
+| ----------------------------------------------------------------------- | ---------------------------------------------------------- |
+| **[wolffish-app](https://github.com/thewolffish/wolffish-app)**         | Electron desktop agent — the brain and runtime             |
+| **[wolffish-landing](https://github.com/thewolffish/wolffish-landing)** | Landing page at [wolffi.sh](https://wolffi.sh)             |
+| **[wolffish-docs](https://github.com/thewolffish/wolffish-docs)**       | Documentation at [docs.wolffi.sh](https://docs.wolffi.sh/) |
+| **[wolffish-signing](https://github.com/thewolffish/wolffish-signing)** | Windows code signing for releases                          |
 
 ### Stack
 
