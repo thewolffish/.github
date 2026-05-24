@@ -17,6 +17,7 @@ Built around a 15-module architecture modeled after the human brain, from memory
 | **[wolffish-app](https://github.com/thewolffish/wolffish-app)** | Electron desktop agent — the brain and runtime |
 | **[wolffish-landing](https://github.com/thewolffish/wolffish-landing)** | Landing page at [wolffi.sh](https://wolffi.sh) |
 | **[wolffish-docs](https://github.com/thewolffish/wolffish-docs)** | Documentation at [docs.wolffi.sh](https://docs.wolffi.sh/) |
+| **[wolffish-signing](https://github.com/thewolffish/wolffish-signing)** | Windows code signing for releases |
 
 ### Stack
 
