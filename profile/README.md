@@ -31,6 +31,21 @@ Built around a 15-module architecture modeled after the human brain, from memory
 - **Skills via markdown** — drop a folder to teach it new workflows
 - **Safety-gated** — destructive operations require explicit approval
 
+### Watch
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=MA6KkeZyFF4"><img src="https://cdn.wolffi.sh/general/Demo%20walkthrough.png" width="360" alt="Demo walkthrough" /></a>
+      <br /><b>Demo walkthrough</b>
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=TKdTWd6BXR8"><img src="https://cdn.wolffi.sh/general/Cinematic%20reveal.png" width="360" alt="Cinematic reveal" /></a>
+      <br /><b>Cinematic reveal</b>
+    </td>
+  </tr>
+</table>
+
 ### Install
 
 macOS / Linux / Windows:
