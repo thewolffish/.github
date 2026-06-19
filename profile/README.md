@@ -31,6 +31,22 @@ Built around a 15-module architecture modeled after the human brain, from memory
 - **Skills via markdown** — drop a folder to teach it new workflows
 - **Safety-gated** — destructive operations require explicit approval
 
+### Install
+
+macOS / Linux / Windows:
+
+```
+curl -fsSL https://releases.wolffi.sh/install.sh | sh
+```
+
+Windows (PowerShell):
+
+```
+irm https://releases.wolffi.sh/install.ps1 | iex
+```
+
+Or download the latest release directly from [wolffi.sh](https://wolffi.sh/).
+
 ---
 
 <sub>MIT License — [wolffi.sh](https://wolffi.sh) · [Docs](https://docs.wolffi.sh/) · [Discord](https://discord.com/invite/F5Ue36PzQ) · [X](https://x.com/the_wolffish)</sub>
