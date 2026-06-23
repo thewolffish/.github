@@ -68,4 +68,4 @@ Or download the latest release directly from [wolffi.sh](https://wolffi.sh/).
 
 ---
 
-<sub>MIT License — [wolffi.sh](https://wolffi.sh) · [Docs](https://docs.wolffi.sh/) · [Discord](https://discord.com/invite/F5Ue36PzQ) · [X](https://x.com/the_wolffish)</sub>
+<sub>MIT License — [wolffi.sh](https://wolffi.sh) · [Docs](https://docs.wolffi.sh/) · [Discord](https://discord.com/invite/F5Ue36PzQ) · [X](https://x.com/younesbites)</sub>
