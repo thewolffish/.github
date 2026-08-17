@@ -18,6 +18,8 @@ Built around a 15-module architecture modeled after the human brain, from memory
 | **[wolffish-landing](https://github.com/thewolffish/wolffish-landing)** | Landing page at [wolffi.sh](https://wolffi.sh)             |
 | **[wolffish-docs](https://github.com/thewolffish/wolffish-docs)**       | Documentation at [docs.wolffi.sh](https://docs.wolffi.sh/) |
 | **[wolffish-extension](https://github.com/thewolffish/wolffish-extension)** | Chrome/Brave browser extension for agent browser control          |
+| **[wolffish-mobile](https://github.com/thewolffish/wolffish-mobile)**   | iOS + Android companion app — a remote for your desktop agent |
+| **[wolffish-relay](https://github.com/thewolffish/wolffish-relay)**     | Zero-retention rendezvous relay for the phone ↔ desktop tunnel |
 | **[wolffish-signing](https://github.com/thewolffish/wolffish-signing)** | Windows code signing for releases                          |
 
 ### Stack
@@ -65,6 +67,23 @@ irm https://releases.wolffi.sh/install.ps1 | iex
 ```
 
 Or download the latest release directly from [wolffi.sh](https://wolffi.sh/).
+
+### Get the mobile app
+
+Wolffish Mobile is the companion phone app — pair it to your desktop once by scanning a QR code, then reach your agent from anywhere over an end-to-end encrypted tunnel.
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://apps.apple.com/us/app/wolffish/id6792797989"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="56" alt="Download on the App Store" /></a>
+    </td>
+    <td align="center">
+      <a href="https://play.google.com/store/apps/details?id=sh.wolffi.mobile"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="83" alt="Get it on Google Play" /></a>
+    </td>
+  </tr>
+</table>
+
+Source: [thewolffish/wolffish-mobile](https://github.com/thewolffish/wolffish-mobile)
 
 ---
 
