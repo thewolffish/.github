@@ -20,6 +20,7 @@ Built around a 15-module architecture modeled after the human brain, from memory
 | **[wolffish-extension](https://github.com/thewolffish/wolffish-extension)** | Chrome/Brave browser extension for agent browser control          |
 | **[wolffish-mobile](https://github.com/thewolffish/wolffish-mobile)**   | iOS + Android companion app — a remote for your desktop agent |
 | **[wolffish-relay](https://github.com/thewolffish/wolffish-relay)**     | Zero-retention rendezvous relay for the phone ↔ desktop tunnel |
+| **[wolffish-cloud](https://github.com/thewolffish/wolffish-cloud)**     | Enterprise edition — on-device agents, a company-owned master API at [api.wolffi.sh](https://api.wolffi.sh) |
 | **[wolffish-signing](https://github.com/thewolffish/wolffish-signing)** | Windows code signing for releases                          |
 
 ### Stack
